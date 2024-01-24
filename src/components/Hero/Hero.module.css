@@ -1,0 +1,16 @@
+.heroContainer {
+    background-image: url("../../assets/hero-img.jpg");
+    width: 100%;
+    height: 89vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+.heroContainer h1 {
+    color: #404040;
+    margin-left: 15%;
+    font-size: 3rem;
+}
+
